@@ -58,7 +58,7 @@ export const menu_locations_es: MenuLocation = {
 
 // set mode to 'menu' to use menu system, 'assistant' to use one assistant directly
 export const clients_config: ClientConfig = {
-    mode: 'menu',
+    mode: 'menu', // 'menu' or 'assistant'
     menu: menu_locations_es,
     user_menu_map: {
         '###@c.us': menu_locations_es
