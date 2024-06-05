@@ -2,6 +2,13 @@
 
 This project, `whatsapp-web.js-GPT`, integrates WhatsApp with OpenAI's GPT to provide a multilingual conversational interface. The key functionalities include connecting a personal user account with Chat GPT via WhatsApp, translating voice notes to text, and converting assistant text to audio responses.
 
+## Video Tutorial
+
+Watch the video tutorial on how to set up and use the project:
+
+[Watch the video on Google Drive](https://drive.google.com/file/d/12P1HYOILZlNNxRDj21_k5tIReCRF1UJh/view?usp=sharing)
+
+
 ## Key Features
 
 1. **WhatsApp Integration**: Utilizing `whatsapp-web.js` to connect and interact with WhatsApp.
