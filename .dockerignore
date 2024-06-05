@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore editor and IDE files
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+/dist/
+
+/.wwebjs_auth/
